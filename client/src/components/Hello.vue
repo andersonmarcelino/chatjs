@@ -1,8 +1,7 @@
 <template>
   <div class="hello">
     <div class="header">
-      <label>Nickname:</label>
-      <input v-model="nickname">
+      <input v-model="nickname" placeholder="nickname">
     </div>
     <div class="chat">
       <div v-for="message in messagelist" class="chat-message">

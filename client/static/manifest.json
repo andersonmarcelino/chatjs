@@ -1,0 +1,8 @@
+{
+  "name": "ChatJS",
+  "short_name": "ChatJS",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#8DB2F2",
+  "description": "A sample chat"
+}
